@@ -1,0 +1,5 @@
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\DummyChat\DummyChat\bin\DummyChat.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\DummyChat\DummyChat\bin\DummyChat.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\DummyChat\DummyChat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\DummyChat\DummyChat\obj\Debug\DummyChat.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\DummyChat\DummyChat\obj\Debug\DummyChat.pdb

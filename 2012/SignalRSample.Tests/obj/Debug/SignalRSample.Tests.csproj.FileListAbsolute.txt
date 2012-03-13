@@ -1,0 +1,11 @@
+C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample.Tests\bin\Debug\SignalRSample.Tests.dll.config
+C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample.Tests\bin\Debug\SignalRSample.Tests.dll
+C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample.Tests\bin\Debug\SignalRSample.Tests.pdb
+C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample.Tests\bin\Debug\SignalRSample.dll
+C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample.Tests\bin\Debug\EntityFramework.dll
+C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample.Tests\bin\Debug\SignalRSample.pdb
+C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample.Tests\bin\Debug\EntityFramework.xml
+C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample.Tests\obj\Debug\SignalRSample.Tests.dll
+C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample.Tests\obj\Debug\SignalRSample.Tests.pdb
+C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample.Tests\bin\Debug\SignalR.dll

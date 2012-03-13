@@ -1,0 +1,51 @@
+﻿@model PushSlides.Models.Slide
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Slide</legend>
+
+        @Html.HiddenFor(model => model.Id)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.SlideTitle)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.SlideTitle)
+            @Html.ValidationMessageFor(model => model.SlideTitle)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.SlideContent)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.SlideContent)
+            @Html.ValidationMessageFor(model => model.SlideContent)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Presentation_Id)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Presentation_Id)
+            @Html.ValidationMessageFor(model => model.Presentation_Id)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

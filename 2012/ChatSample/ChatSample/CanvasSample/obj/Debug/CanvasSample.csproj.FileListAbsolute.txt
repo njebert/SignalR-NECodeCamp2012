@@ -1,0 +1,11 @@
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\CanvasSample\bin\CanvasSample.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\CanvasSample\bin\CanvasSample.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\CanvasSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\CanvasSample\bin\Newtonsoft.Json.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\CanvasSample\bin\SignalR.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\CanvasSample\bin\SignalR.Hosting.AspNet.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\CanvasSample\bin\Newtonsoft.Json.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\CanvasSample\bin\Newtonsoft.Json.xml
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\CanvasSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\CanvasSample\obj\Debug\CanvasSample.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\CanvasSample\obj\Debug\CanvasSample.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatSample", "ChatSample\ChatSample.csproj", "{A3FBF2E4-E5F2-4C6A-9FB5-C978FACCFDA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasSample", "CanvasSample\CanvasSample.csproj", "{F528BF81-AC9E-428F-9C18-2A4A20B680E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareShooter", "SquareShooter\SquareShooter.csproj", "{7D0C25AB-4579-4E37-A946-D568D7CBC787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3FBF2E4-E5F2-4C6A-9FB5-C978FACCFDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FBF2E4-E5F2-4C6A-9FB5-C978FACCFDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FBF2E4-E5F2-4C6A-9FB5-C978FACCFDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FBF2E4-E5F2-4C6A-9FB5-C978FACCFDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F528BF81-AC9E-428F-9C18-2A4A20B680E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F528BF81-AC9E-428F-9C18-2A4A20B680E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F528BF81-AC9E-428F-9C18-2A4A20B680E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F528BF81-AC9E-428F-9C18-2A4A20B680E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0C25AB-4579-4E37-A946-D568D7CBC787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0C25AB-4579-4E37-A946-D568D7CBC787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0C25AB-4579-4E37-A946-D568D7CBC787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0C25AB-4579-4E37-A946-D568D7CBC787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

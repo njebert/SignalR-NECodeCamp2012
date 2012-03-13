@@ -1,0 +1,13 @@
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample\bin\DistributeSample.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample\bin\DistributeSample.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample\bin\EntityFramework.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample\bin\Newtonsoft.Json.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample\bin\SignalR.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample\bin\SignalR.Hosting.AspNet.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample\bin\EntityFramework.xml
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample\bin\Newtonsoft.Json.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample\bin\Newtonsoft.Json.xml
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample\obj\Debug\DistributeSample.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample\obj\Debug\DistributeSample.pdb

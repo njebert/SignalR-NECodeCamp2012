@@ -1,0 +1,5 @@
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\SquareShooter\bin\SquareShooter.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\SquareShooter\bin\SquareShooter.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\SquareShooter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\SquareShooter\obj\Debug\SquareShooter.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\SquareShooter\obj\Debug\SquareShooter.pdb

@@ -1,0 +1,30 @@
+﻿@model PushSlides.Models.Slide
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Slide</legend>
+
+    <div class="display-label">SlideTitle</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.SlideTitle)
+    </div>
+
+    <div class="display-label">SlideContent</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.SlideContent)
+    </div>
+
+    <div class="display-label">Presentation Id</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Presentation_Id)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

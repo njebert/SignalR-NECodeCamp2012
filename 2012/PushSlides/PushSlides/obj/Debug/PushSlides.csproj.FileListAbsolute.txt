@@ -1,0 +1,7 @@
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\PushSlides\PushSlides\bin\PushSlides.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\PushSlides\PushSlides\bin\PushSlides.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\PushSlides\PushSlides\bin\EntityFramework.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\PushSlides\PushSlides\bin\EntityFramework.xml
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\PushSlides\PushSlides\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\PushSlides\PushSlides\obj\Debug\PushSlides.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\PushSlides\PushSlides\obj\Debug\PushSlides.pdb

@@ -1,0 +1,13 @@
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides\bin\PushSlides.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides\bin\PushSlides.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides\bin\EntityFramework.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides\bin\EntityFramework.xml
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides\obj\Debug\PushSlides.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides\obj\Debug\PushSlides.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides\bin\Newtonsoft.Json.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides\bin\SignalR.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides\bin\SignalR.Hosting.AspNet.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides\bin\Newtonsoft.Json.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides\bin\Newtonsoft.Json.xml

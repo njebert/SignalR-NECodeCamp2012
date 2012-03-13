@@ -1,0 +1,10 @@
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides.Tests\bin\Debug\PushSlides.Tests.dll.config
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides.Tests\bin\Debug\PushSlides.Tests.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides.Tests\bin\Debug\PushSlides.Tests.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides.Tests\bin\Debug\PushSlides.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides.Tests\bin\Debug\EntityFramework.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides.Tests\bin\Debug\PushSlides.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides.Tests\bin\Debug\EntityFramework.xml
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides.Tests\obj\Debug\PushSlides.Tests.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\ChatSample\ChatSample\PushSlides.Tests\obj\Debug\PushSlides.Tests.pdb

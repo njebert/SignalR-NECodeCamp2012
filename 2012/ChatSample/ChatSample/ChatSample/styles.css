@@ -1,0 +1,27 @@
+﻿body 
+{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+#messages
+{
+    height: 400px;
+    overflow: auto;
+    padding: 4px;
+    margin: 10px 0px;
+    border: 2px solid #AAA;
+}
+
+#msg
+{
+    width: 750px;
+    float: left;
+}
+
+#broadcast
+{
+    width: 100px;
+    float: right;
+}

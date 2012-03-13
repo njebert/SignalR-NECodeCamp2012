@@ -1,0 +1,9 @@
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample.Tests\bin\Debug\DistributeSample.Tests.dll.config
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample.Tests\bin\Debug\DistributeSample.Tests.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample.Tests\bin\Debug\DistributeSample.Tests.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample.Tests\bin\Debug\DistributeSample.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample.Tests\bin\Debug\SignalR.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample.Tests\bin\Debug\DistributeSample.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample.Tests\obj\Debug\DistributeSample.Tests.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\2012\Sample\DistributeSample\DistributeSample.Tests\obj\Debug\DistributeSample.Tests.pdb
