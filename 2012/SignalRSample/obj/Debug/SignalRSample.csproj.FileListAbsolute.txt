@@ -1,9 +1,0 @@
-C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample\bin\SignalRSample.dll
-C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample\bin\SignalRSample.pdb
-C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample\bin\EntityFramework.dll
-C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample\bin\SignalR.dll
-C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample\bin\EntityFramework.xml
-C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample\obj\Debug\SignalRSample.dll
-C:\Users\nebert\Documents\Sandbox\MVC3\SignalRSample\obj\Debug\SignalRSample.pdb
